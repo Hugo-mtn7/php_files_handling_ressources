@@ -20,3 +20,8 @@ strong{
 .navbar-brand{
     height: auto;
 }
+
+.deleteLink
+{
+    color: orangered;
+}
